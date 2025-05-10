@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A155-B901-46F2-8971-A653DF902474}|SchoolWebAppClient\\SchoolWebAppClient.csproj|c:\\users\\adem_\\onedrive\\bureau\\tp6-.net-main\\schoolwebappclient\\controllers\\schoolclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A155-B901-46F2-8971-A653DF902474}|SchoolWebAppClient\\SchoolWebAppClient.csproj|solutionrelative:schoolwebappclient\\controllers\\schoolclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956A155-B901-46F2-8971-A653DF902474}|SchoolWebAppClient\\SchoolWebAppClient.csproj|c:\\users\\adem_\\onedrive\\bureau\\tp6-.net-main\\schoolwebappclient\\models\\schoolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5956A155-B901-46F2-8971-A653DF902474}|SchoolWebAppClient\\SchoolWebAppClient.csproj|solutionrelative:schoolwebappclient\\models\\schoolclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CCA4C6-7E89-44AD-9911-B0B0466617AF}|SchoolAPI\\SchoolAPI.csproj|c:\\users\\adem_\\onedrive\\bureau\\tp6-.net-main\\schoolapi\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CCA4C6-7E89-44AD-9911-B0B0466617AF}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolClientController.cs",
+              "DocumentMoniker": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "RelativeDocumentMoniker": "SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "ToolTip": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "RelativeToolTip": "SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:49:50.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolClient.cs",
+              "DocumentMoniker": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\SchoolWebAppClient\\Models\\SchoolClient.cs",
+              "RelativeDocumentMoniker": "SchoolWebAppClient\\Models\\SchoolClient.cs",
+              "ToolTip": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\SchoolWebAppClient\\Models\\SchoolClient.cs",
+              "RelativeToolTip": "SchoolWebAppClient\\Models\\SchoolClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:49:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolsController.cs",
+              "DocumentMoniker": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\SchoolAPI\\Controllers\\SchoolsController.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Controllers\\SchoolsController.cs",
+              "ToolTip": "C:\\Users\\adem_\\OneDrive\\Bureau\\TP6-.Net-main\\SchoolAPI\\Controllers\\SchoolsController.cs",
+              "RelativeToolTip": "SchoolAPI\\Controllers\\SchoolsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:48:53.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
